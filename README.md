@@ -1,4 +1,4 @@
-## Hello, I am Bruna Rocha, a Web Development student ##
+## Hello, I am Bruna Rocha, a Web Development student! ##
 
 - 🌱 I’m currently learning C#, Database Design, Adobe Illustration and Network Operation Systems.
 - 😄 Pronouns: She/her
