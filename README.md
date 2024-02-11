@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning C#, Database Design, Adobe Illustration and Network Operation Systems.
 - 😄 Pronouns: She/her
 
-<div>
-  <a href="https://github.com/brunatlrocha">
-  <img height="180" src="(https://github-readme-stats.vercel.app/api?username=brunatlrocha&show_icons=true&theme=dark)>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunatlrocha/brunatlrocha/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunatlrocha/brunatlrocha/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/brunatlrocha/brunatlrocha/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
