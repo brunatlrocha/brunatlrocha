@@ -1,6 +1,6 @@
 ## Hello, I am Bruna Rocha, a Web Development student! ##
 
-- 🌱 I’m currently learning C#, Database Design, Adobe Illustration and Network Operation Systems.
+- 🌱 I’m currently learning C#, Database Design, Adobe Illustration, Figma and Network Operation Systems.
 - 😄 Pronouns: She/her
 
 <div style="display: inline_block"><br>
@@ -9,7 +9,8 @@
   <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bru-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Bru-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">          
+  <img align="center" alt="Bru-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
+  <img align="center" alt="Bru-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
 ## 
