@@ -1,4 +1,4 @@
-## Hello, I'm Bruna Lima, a Web Development student. ##
+## Hello, I'm Bruna Lima, a Web Development student ##
 
 - 🌱 I’m currently learning C#, Database Design, Adobe Illustration, Figma and Network Operation Systems.
 - 😄 Pronouns: She/her
