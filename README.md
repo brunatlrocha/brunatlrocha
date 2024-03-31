@@ -1,7 +1,7 @@
 ## Hello, I'm Bruna Lima, a Web Development student. ##
 
 - 🌱 I’m currently learning C#, Database Design, Adobe Illustration, Figma and Network Operation Systems.
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/he
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
