@@ -1,6 +1,6 @@
 ## Hello, I'm Bruna Lima, a Web Development student. ##
 
-- 🌱 I’m currently learning C#, Database Design, Adobe Illustration, Figma and Network Operation Systems
+- 🌱 I'm currently studying my third semester at Algonquin College, based in Ottawa, Canada.
 - 😄 Pronouns: She/her
 
 <div style="display: inline_block"><br>
