@@ -12,7 +12,7 @@
   <img align="center" alt="Bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bru-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Bru-MariaDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg">
-  <img align="center" alt="Bru-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pho/php-original.svg">
+  <img align="center" alt="Bru-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ## 
