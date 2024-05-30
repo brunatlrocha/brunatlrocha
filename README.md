@@ -1,6 +1,6 @@
 ## Hello, I'm Bruna Lima, a Web Development student ##
 
-- 🌱 I'm currently studying my third semester at Algonquin College, based in Ottawa, Canada.
+- 🌱 I'm currently studying my third semester at Algonquin College, based in Ottawa, Canada
 - 🎓 Estimated Completion Date: August, 2025.
 - 😄 Pronouns: She/her
 
