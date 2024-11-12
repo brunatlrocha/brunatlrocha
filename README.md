@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently studying my third semester at Algonquin College, based in Ottawa, Canada.
 - 🎓 Estimated Completion Date: May - 2025.
-- 😄 Pronouns: She/her
+- 😄 Pronouns: She/her.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
