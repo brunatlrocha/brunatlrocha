@@ -1,4 +1,4 @@
-## Hello, I'm Bruna Lima, a Web Development student ##
+## Hello, I'm Bruna, a Web Development student ##
 
 - 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada.
 - 🎓 Estimated Completion Date: April - 2025.
