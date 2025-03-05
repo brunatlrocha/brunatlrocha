@@ -1,6 +1,6 @@
 ## Hello, I'm Bruna, a Web Development student ##
 
-- 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada.
+- 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada
 - 🎓 Estimated Completion Date: April - 2025.
 - 😄 Pronouns: She/her.
 
