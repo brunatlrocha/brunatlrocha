@@ -1,4 +1,6 @@
-## Hello, I'm Bruna, a Web Development student ##
+## Hello, I'm Bruna!##
+
+# Web Development Student | Full-Stack Development | Interactive and Responsive Web Applications #
 
 - 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada.
 - 🎓 Estimated Completion Date: April - 2025.
