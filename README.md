@@ -1,7 +1,5 @@
 # Hello, I'm Bruna! #
-<p style="font-size: 25px; font-weight: bold;">
-  Web Development Student | Full-Stack Development | Interactive and Responsive Web Applications
-</p>
+**_🌐 Web Development Student | 💻 Full-Stack Development | ✨ Interactive and Responsive Web Applications_**
 
 
 - 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada.
