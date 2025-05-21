@@ -1,10 +1,10 @@
-# Hello, I'm Bruna! #
-**_🌐 Web Development Student | 💻 Full-Stack Development | ✨ Interactive and Responsive Web Applications_**
+# Hello, I'm Bruna! 👋  
+**🌐 Web Developer | 💻 Full-Stack Development | ✨ Passionate About Building Interactive & Responsive Web Applications**
 
-
-- 🌱 I'm currently studying my fourth semester at Algonquin College, based in Ottawa, Canada.
-- 🎓 Estimated Completion Date: April - 2025.
-- 😄 Pronouns: She/her.
+- 🎓 I recently graduated from the Web Development and Internet Applications program at Algonquin College in Ottawa, Canada (April 2025).
+- 💡 I enjoy creating clean, user-friendly interfaces and building efficient, scalable solutions.
+- 🔍 Always curious and eager to learn new technologies and best practices.
+- 😄 Pronouns: she/her.
 
 - Explore my website: https://brunatlrocha.github.io/bruna-in-motion/
 
