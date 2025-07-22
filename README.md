@@ -6,7 +6,7 @@
 - 🔍 Always curious and eager to learn new technologies and best practices.
 - 😄 Pronouns: she/her.
 
-- Explore website: https://brunatlrocha.github.io/bruna-in-motion/
+- Explore my website: https://brunatlrocha.github.io/bruna-in-motion/
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bru-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
