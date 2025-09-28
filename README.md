@@ -1,4 +1,4 @@
-# Hello, I'm Bruna! 
+# Hello, I'm Bruna
 **_🌐 Web Developer | 💻 Full-Stack Development | ✨ Passionate About Building Interactive & Responsive Web Applications_**
 
 - 🎓 I recently graduated from the Web Development and Internet Applications program at Algonquin College in Ottawa, Canada (April 2025).
